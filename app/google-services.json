@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "804065564898",
+    "firebase_url": "https://coinmaster-dd9b6.firebaseio.com",
+    "project_id": "coinmaster-dd9b6",
+    "storage_bucket": "coinmaster-dd9b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804065564898:android:3e887740d64194a6",
+        "android_client_info": {
+          "package_name": "com.dianapislaru.coinmaster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804065564898-fkhmmago8063g0pa68dqh86nr70b2iu5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dianapislaru.coinmaster",
+            "certificate_hash": "0A14D8EAA5FAFA959275EA7F0521FDD3BA09B864"
+          }
+        },
+        {
+          "client_id": "804065564898-mf8f374m3fh7t71dpr8dgmjq5mrc2fjc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxyNdriGq4q2WYaE37EccmNN2PjLtIQW4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804065564898-mf8f374m3fh7t71dpr8dgmjq5mrc2fjc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

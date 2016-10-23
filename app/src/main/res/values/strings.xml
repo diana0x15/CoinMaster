@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Coin Master</string>
+    <string name="password_activity_text">Enter your password:</string>
+</resources>
